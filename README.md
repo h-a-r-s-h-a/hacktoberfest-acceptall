@@ -1,2 +1,1 @@
 # hacktoberfest-acceptall
-1
